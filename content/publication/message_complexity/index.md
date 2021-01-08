@@ -11,7 +11,7 @@ authors:
 - Mahsa Eftekhari
 - admin
 
-date: ""
+date: "2020-03-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -47,7 +47,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'content/publication/message_complexity/talk.pptx'
+url_slides: 'media/message_complexity_talk.pptx'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=2RtQJN5C6sI'
 

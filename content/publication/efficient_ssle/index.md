@@ -11,7 +11,7 @@ authors:
 - admin
 - Chuan Xu
 
-date: ""
+date: "2019-07-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -47,7 +47,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'content/publication/efficient_ssle/talk.pptx'
+url_slides: 'media/efficient_ssle_talk.pptx'
 url_source: ''
 url_video: ''
 
