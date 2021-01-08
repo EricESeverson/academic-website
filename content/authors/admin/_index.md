@@ -30,7 +30,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:eseverson@ucdavis.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EricESeverson
