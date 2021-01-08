@@ -25,11 +25,9 @@ publication_types: ["1","2"]
 publication: In *Distributed Computing 2020* and *Principals of Distributed Computing 2019*
 publication_short: In *DIST 2020* (Journal) and *PODC 2019* (Conference)
 
-<<<<<<< HEAD
 abstract: 
 =======
-abstract: We study the composability of discrete chemical reaction networks (CRNs) that stably compute (i.e., with probability 0 of error) integer-valued functions $f:\mathbb{N}^d\rightarrow \mathbb{N}. We consider output-oblivious CRNs in which the output species is never a reactant (input) to any reaction. The class of output-oblivious CRNs is fundamental, appearing in earlier studies of CRN computation, because it is precisely the class of CRNs that can be composed by simply renaming the output of the upstream CRN to match the input of the downstream CRN. Our main theorem precisely characterizes the functions $f$ stably computable by output-oblivious CRNs with an initial leader. The key necessary condition is that for sufficiently large inputs, $f$ is the minimum of a finite number of nondecreasing quilt-affine functions. (An affine function is linear with a constant offset; a quilt-affine function is linear with a periodic offset).
->>>>>>> bee9e9563176f98e9f5e6097d247e1b74aa79eb6
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
