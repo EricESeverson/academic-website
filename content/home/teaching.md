@@ -11,6 +11,8 @@ weight = 100  # Order that this section will appear.
 title = "Teaching"
 subtitle = ""
 
++++
+
 Courses taught as a full instructor:
 -[Math 115A (Number Theory)](https://canvas.ucdavis.edu/courses/504437): Summer 2020
 -[Math 145A (Combinatorics)](https://canvas.ucdavis.edu/courses/390114): Summer 2019
