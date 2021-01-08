@@ -9,7 +9,7 @@ authors:
 - David Haley
 - David Doty
 
-date: ""
+date: "Feb:2019"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -47,9 +47,9 @@ links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'content/publication/composable_computation/poster.pdf'
+url_poster: 'static/media/composable_computation_poster.pdf'
 url_project: ''
-url_slides: 'content/publication/composable_computation/talk.pptx'
+url_slides: 'static/media/composable_computation_talk.pptx'
 url_source: ''
 url_video: ''
 
