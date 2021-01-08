@@ -74,4 +74,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-If I type stuff here, where does it appear?
