@@ -26,8 +26,6 @@ publication: In *Distributed Computing 2020* and *Principals of Distributed Comp
 publication_short: In *DIST 2020* (Journal) and *PODC 2019* (Conference)
 
 abstract: 
-=======
-abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
