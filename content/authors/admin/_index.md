@@ -14,26 +14,14 @@ organizations:
   url: http://appliedmath.ucdavis.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio: My research interests include distributed computing and molecular computing.
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Applied Mathematics
+    institution: UC Berkeley
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,7 +43,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,8 +52,4 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Eric Severson is a PhD candidate in Applied Mathematics at UC Davis, working with professor {{< staticref "https://web.cs.ucdavis.edu/~doty/" "newtab" >}} David Doty {{< /staticref >}}. His research is at the intersection of distributed computing and molecular computing, focusing on the related models of population protocols and chemical reaction networks. These models describe a population of simple computational agents (ie. molecules) that have random pairwise interactions (ie. chemical reactions) and try to compute properties of the global configuration through these purely local interactions. Proving results in these models uses tools from theory of computation and stochastic processes.
