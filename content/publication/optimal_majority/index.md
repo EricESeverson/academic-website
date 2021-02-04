@@ -38,7 +38,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Full Paper on Arxiv
-  url: https://arxiv.org/abs/1907.06068
+  url: https://arxiv.org/abs/2012.15800
 
 url_pdf: ''
 url_code: 'https://github.com/eftekhari-mhs/population-protocols/tree/master/Exact_Majority'
