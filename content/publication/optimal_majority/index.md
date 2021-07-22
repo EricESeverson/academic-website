@@ -7,10 +7,10 @@ title: "A stable majority population protocol using logarithmic time and states"
 authors:
 - David Doty
 - Mahsa Eftekhari
-- Leszek G{\k{a}}sieniec
+- Leszek Gąsieniec
 - admin
 - Grzegorz Stachowiak
-- Przemys{\l}aw} Uzna{\'n}ski
+- Przemysław Uznański
 
 
 date: "2021-06-04T00:00:00Z"

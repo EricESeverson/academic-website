@@ -13,7 +13,7 @@ subtitle = ""
 
 +++
 
-Starting August 2021, I will be a full-time instructor at [Proof School](https://www.proofschool.org/)
+Starting August 2021, I will be a full-time instructor at [Proof School](https://www.proofschool.org/).
 
 ### Courses taught as a full instructor:
 - [Math 115A (Number Theory)](https://canvas.ucdavis.edu/courses/504437): Summer 2020
