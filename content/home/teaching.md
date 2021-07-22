@@ -13,6 +13,8 @@ subtitle = ""
 
 +++
 
+Starting August 2021, I will be a full-time instructor at [Proof School](https://www.proofschool.org/)
+
 ### Courses taught as a full instructor:
 - [Math 115A (Number Theory)](https://canvas.ucdavis.edu/courses/504437): Summer 2020
 - [Math 145A (Combinatorics)](https://canvas.ucdavis.edu/courses/390114): Summer 2019
@@ -20,8 +22,8 @@ subtitle = ""
 - [Math 21C (Series and Partial Derivatives)](https://canvas.ucdavis.edu/courses/168017): Summer 2017
 
 ### Courses taught as a teaching assistant:
+- ECS 220 (Graduate Theory of Computation): Spring 2020 and Spring 2021
 - ECS 289A (Molecular Computation): Winter 2021
-- ECS 220 (Graduate Theory of Computation): Spring 2020
 - Math 21D (Vector Calculus): Winter 2019
 - Math 135B (Stochastic Processes): Spring 2018
 - Math 21B (Integral Calculus): Winter 2018

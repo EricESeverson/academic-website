@@ -1,19 +1,14 @@
 ---
-title: "Time-optimal self-stabilizing leader election in population protocols"
+title: "ppsim: A software package for efficiently simulating and visualizing population protocols"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Janna Burman
-- Ho-Lin Chen
-- Hsueh-Ping Chen
 - David Doty
-- Thomas Nowak
 - admin
-- Chuan Xu
 
-date: "2021-05-27T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +21,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Principals of Distributed Computing 2021*
-publication_short: In *PODC 2021*
+publication:
+publication_short: 
 
 abstract: 
 
@@ -41,17 +36,19 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: README for software package
+  url: https://github.com/UC-Davis-molecular-computing/ppsim#readme
 - name: Full Paper on Arxiv
-  url: https://arxiv.org/abs/1907.06068
+  url: https://arxiv.org/abs/2105.04702
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'media/efficient_ssle_talk.pptx'
+url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=_uqDoX60Oho'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

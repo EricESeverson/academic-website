@@ -7,9 +7,13 @@ title: "A stable majority population protocol using logarithmic time and states"
 authors:
 - David Doty
 - Mahsa Eftekhari
+- Leszek G{\k{a}}sieniec
 - admin
+- Grzegorz Stachowiak
+- Przemys{\l}aw} Uzna{\'n}ski
 
-date: "2020-12-31T00:00:00Z"
+
+date: "2021-06-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -38,16 +42,16 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Full Paper on Arxiv
-  url: https://arxiv.org/abs/1907.06068
+  url: https://arxiv.org/abs/2106.10201
 
 url_pdf: ''
-url_code: 'https://github.com/eftekhari-mhs/population-protocols/tree/master/Exact_Majority'
-url_dataset: ''
+url_code: 'https://github.com/UC-Davis-molecular-computing/ppsim/blob/main/examples/majority.ipynb'
+url_dataset: 'https://github.com/eftekhari-mhs/population-protocols/tree/master/Exact_Majority'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=0dKnHMLwUdk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
