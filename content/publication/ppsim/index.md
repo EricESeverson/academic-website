@@ -21,8 +21,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: 
+publication: In Proceedings of the 19th International Conference on Computational Methods in Systems Biology
+publication_short: In *CMSB 2021*
 
 abstract: 
 
