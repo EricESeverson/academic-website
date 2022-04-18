@@ -13,15 +13,20 @@ subtitle = ""
 
 +++
 
-Starting August 2021, I will be a full-time instructor at [Proof School](https://www.proofschool.org/).
+### Courses taught at Proof School:
+- Cryptography: Block 5 2021-22
+- Theory of Computation: Block 4 2021-22
+- Stochastic Processes: Block 3 2021-22
+- Euclidean Geometry 1: Block 2 2021-22
+- Discrete Probability: Block 1 2021-22
 
-### Courses taught as a full instructor:
+### Courses taught as a full instructor at UC Davis:
 - [Math 115A (Number Theory)](https://canvas.ucdavis.edu/courses/504437): Summer 2020
 - [Math 145A (Combinatorics)](https://canvas.ucdavis.edu/courses/390114): Summer 2019
 - [Math 21D (Vector Calculus)](https://canvas.ucdavis.edu/courses/252724): Fall 2018
 - [Math 21C (Series and Partial Derivatives)](https://canvas.ucdavis.edu/courses/168017): Summer 2017
 
-### Courses taught as a teaching assistant:
+### Courses taught as a teaching assistant at UC Davis:
 - ECS 220 (Graduate Theory of Computation): Spring 2020 and Spring 2021
 - ECS 289A (Molecular Computation): Winter 2021
 - Math 21D (Vector Calculus): Winter 2019
