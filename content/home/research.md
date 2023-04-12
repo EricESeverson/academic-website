@@ -11,9 +11,8 @@ headless: true
 weight: 80
 
 title: Research
-subtitle: "What about this here?"
-
-Does this show up?
+subtitle: "Can I write a whole paragraph here?"
+text: "This is probably where text should go"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,3 +36,6 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+
+Other stuff here, where does this go?
+
