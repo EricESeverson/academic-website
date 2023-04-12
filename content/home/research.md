@@ -11,7 +11,6 @@ headless: true
 weight: 80
 
 title: Research
-subtitle: "Eric Severson is a PhD candidate in Applied Mathematics at UC Davis, working with professor {{< staticref "https://web.cs.ucdavis.edu/~doty/" "newtab" >}} David Doty{{< /staticref >}}. His research is at the intersection of distributed computing and molecular computing, focusing on the related models of population protocols and chemical reaction networks. These models describe a population of simple computational agents (ie. molecules) that have random pairwise interactions (ie. chemical reactions) and try to compute properties of the global configuration through these purely local interactions. Proving results in these models uses tools from theory of computation and stochastic processes."
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -36,5 +35,5 @@ design:
   view: 4
 ---
 
-Other stuff here, where does this go?
+My PhD was in Applied Mathematics at UC Davis, working with professor {{< staticref "https://web.cs.ucdavis.edu/~doty/" "newtab" >}} David Doty{{< /staticref >}}. My research was at the intersection of distributed computing and molecular computing, focusing on the related models of population protocols and chemical reaction networks. These models describe a population of simple computational agents (ie. molecules) that have random pairwise interactions (ie. chemical reactions) and try to compute properties of the global configuration through these purely local interactions. Proving results in these models uses tools from theory of computation and stochastic processes.
 
