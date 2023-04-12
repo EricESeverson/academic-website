@@ -11,7 +11,9 @@ headless: true
 weight: 80
 
 title: Research
-subtitle: ""
+subtitle: "What about this here?"
+
+Does this show up?
 
 content:
   # Page type to display. E.g. post, talk, publication...
