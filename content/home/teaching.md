@@ -14,11 +14,15 @@ subtitle = ""
 +++
 
 ### Courses taught at Proof School:
+- Dynamics of Differential Equations: Block 5 2022-23
+- Exponents/Logs/Trig B: Block 4 2022-23
+- Statistics A: Block 3 2022-23
+- Differential Calculus: Block 2 2022-23
+- Discrete Probability: Block 1 2022-23 and Block 1 2021-22
 - Cryptography: Block 5 2021-22
 - Theory of Computation: Block 4 2021-22
 - Stochastic Processes: Block 3 2021-22
 - Euclidean Geometry 1: Block 2 2021-22
-- Discrete Probability: Block 1 2021-22
 
 ### Courses taught as a full instructor at UC Davis:
 - [Math 115A (Number Theory)](https://canvas.ucdavis.edu/courses/504437): Summer 2020
