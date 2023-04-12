@@ -14,6 +14,7 @@ subtitle = ""
 +++
 
 ### Courses taught at Proof School:
+- Machine Learning: Year long 2022-23
 - Dynamics of Differential Equations: Block 5 2022-23
 - Exponents/Logs/Trig B: Block 4 2022-23
 - Statistics A: Block 3 2022-23
