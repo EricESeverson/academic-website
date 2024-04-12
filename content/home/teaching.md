@@ -14,9 +14,13 @@ subtitle = ""
 +++
 
 ### Courses taught at Proof School:
+- Cryptography: Block 5 2023-24
+- Exponents/Logs/Trig B: Block 4 2023-24 and Block 4 2022-23
+- Euclidean Geometry 2: Block 3 2023-24
+- Complex Analysis A: Block 2 2023-24
+- Graph Theory 1: Block 1 2023-24
 - Machine Learning: Year long 2022-23
 - Dynamics of Differential Equations: Block 5 2022-23
-- Exponents/Logs/Trig B: Block 4 2022-23
 - Statistics A: Block 3 2022-23
 - Differential Calculus: Block 2 2022-23
 - Discrete Probability: Block 1 2022-23 and Block 1 2021-22
