@@ -33,13 +33,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:eseverson@ucdavis.edu'
+  link: 'mailto:eseverson@proofschool.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EricESeverson
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/@ericseverson5608
+  link: https://www.youtube.com/@ericseversonmath
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=7bsgLbAAAAAJ&hl=en
@@ -60,6 +60,4 @@ highlight_name: false
 
 I'm currently teaching math and computer science at Proof School in San Francisco.
 
-I like making nice math visuals. Lately I've been making {{< staticref "https://www.geogebra.org/u/ericseverson" "newtab" >}}a lot of interactive things with Geogebra{{< /staticref >}}.
-
-I also tried learning {{< staticref "https://www.manim.community/" "newtab" >}}the Manim animation library{{< /staticref >}} and made {{< staticref "[https://www.manim.community/](https://www.youtube.com/watch?v=Ct7oltmdJrM&ab_channel=EricSeverson)" "newtab" >}}one video{{< /staticref >}} for a contest the other summer.
+I like making nice math visuals. Lately I've been making {{< staticref "https://www.geogebra.org/u/ericseverson" "newtab" >}}a lot of interactive things with Geogebra{{< /staticref >}}, as well as Desmos. I also have a {{< staticref "https://www.youtube.com/watch?v=BfU-vYWbxA0" "newtab" >}}couple{{< /staticref >}} {{< staticref "https://www.youtube.com/watch?v=Ct7oltmdJrM" "newtab" >}}videos{{< /staticref >}} I made for the 3b1b Summer of Math Exposition.
