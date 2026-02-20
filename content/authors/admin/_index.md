@@ -60,4 +60,6 @@ highlight_name: false
 
 I'm currently teaching math and computer science at Proof School in San Francisco.
 
-I like making nice math visuals. Lately I've been making {{< staticref "https://www.geogebra.org/u/ericseverson" "newtab" >}}a lot of interactive things with Geogebra{{< /staticref >}}, as well as Desmos. I also have a {{< staticref "https://www.youtube.com/watch?v=BfU-vYWbxA0" "newtab" >}}couple{{< /staticref >}} {{< staticref "https://www.youtube.com/watch?v=Ct7oltmdJrM" "newtab" >}}videos{{< /staticref >}} I made for the 3b1b Summer of Math Exposition.
+I like making nice math visuals. Lately I've been making {{< staticref "https://www.geogebra.org/u/ericseverson" "newtab" >}}a lot of interactive things with Geogebra{{< /staticref >}}, as well as Desmos. Most recently I made a bunch of tools for a visually-driven Complex Analysis class, which I say more about {{< staticref "https://docs.google.com/presentation/d/17nPZ4l7fIZqChK2I32nwA8N9Yf1B4WJCQClUFYw9wLc/edit?usp=sharing" "newtab" >}}in these slides from Gathering 4 Gardner 16.{{< /staticref >}}()
+
+I also have a {{< staticref "https://www.youtube.com/watch?v=BfU-vYWbxA0" "newtab" >}}couple{{< /staticref >}} {{< staticref "https://www.youtube.com/watch?v=Ct7oltmdJrM" "newtab" >}}videos{{< /staticref >}} I made for the 3b1b Summer of Math Exposition.
