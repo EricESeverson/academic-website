@@ -14,22 +14,21 @@ subtitle = ""
 +++
 
 ### Courses taught at Proof School:
-- Stochastic Processes: Block 2 2025-26
-- Complex Analysis: Block 1 2025-26 [(Slides showing visualizations I made for the class)](https://canvas.ucdavis.edu/courses/504437](https://docs.google.com/presentation/d/17nPZ4l7fIZqChK2I32nwA8N9Yf1B4WJCQClUFYw9wLc/edit?usp=sharing)
-- Cryptography: Block 5 2023-24
-- Exponents/Logs/Trig B: Blocks 3-4 2025-26, Block 4 2023-24, Block 4 2022-23
+- Exponents/Logs/Trig B: Blocks 3-4 2025-26, Block 4 2024-25, Block 4 2023-24, Block 4 2022-23
+- Stochastic Processes: Block 2 2025-26, Block 3 2021-22
+- Complex Analysis: Block 1 2025-26, Block 2 2023-24
+- Machine Learning: Year long 2024-25 and 2022-23
+- Dynamics of Differential Equations: Block 5 2024-25, Block 5 2022-23
+- Euclidean Geometry 1: Block 3 2024-25, Block 2 2021-22
+- Theory of Computation: Block 2 2024-25, Block 4 2021-22
+- Graph Theory 1: Block 1 2024-25, Block 1 2023-24
+- Mathematical Cryptography: Block 5 2023-24
 - Euclidean Geometry 2: Block 3 2023-24
-- Complex Analysis A: Block 2 2023-24
-- Graph Theory 1: Block 1 2023-24
-- Machine Learning: Year long 2022-23
-- Dynamics of Differential Equations: Block 5 2022-23
 - Statistics A: Block 3 2022-23
 - Differential Calculus: Block 2 2022-23
 - Discrete Probability: Block 1 2022-23 and Block 1 2021-22
 - Cryptography: Block 5 2021-22
-- Theory of Computation: Block 4 2021-22
-- Stochastic Processes: Block 3 2021-22
-- Euclidean Geometry 1: Block 2 2021-22
+
 
 ### Courses taught as a full instructor at UC Davis:
 - [Math 115A (Number Theory)](https://canvas.ucdavis.edu/courses/504437): Summer 2020
