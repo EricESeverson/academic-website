@@ -14,8 +14,10 @@ subtitle = ""
 +++
 
 ### Courses taught at Proof School:
+- Stochastic Processes: Block 2 2025-26
+- Complex Analysis: Block 1 2025-26 [(Slides showing visualizations I made for the class)](https://canvas.ucdavis.edu/courses/504437](https://docs.google.com/presentation/d/17nPZ4l7fIZqChK2I32nwA8N9Yf1B4WJCQClUFYw9wLc/edit?usp=sharing)
 - Cryptography: Block 5 2023-24
-- Exponents/Logs/Trig B: Block 4 2023-24 and Block 4 2022-23
+- Exponents/Logs/Trig B: Blocks 3-4 2025-26, Block 4 2023-24, Block 4 2022-23
 - Euclidean Geometry 2: Block 3 2023-24
 - Complex Analysis A: Block 2 2023-24
 - Graph Theory 1: Block 1 2023-24
